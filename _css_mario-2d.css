@@ -396,37 +396,3 @@ h1 {
 	font-size: 16px;
 	line-height: 22px;
 }
-
-.twitter-actions {
-	position: relative;
-	margin-top: 24px;
-}
-
-.twitter-share-button,
-.twitter-follow-button {
-	position: absolute;
-}
-
-.twitter-follow-button {
-	left: 120px;
-}
-/*
-     FILE ARCHIVED ON 04:17:58 Sep 11, 2015 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 10:23:46 Aug 14, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 172.68
-  exclusion.robots: 0.201
-  exclusion.robots.policy: 0.192
-  cdx.remote: 0.059
-  esindex: 0.009
-  LoadShardBlock: 141.654 (3)
-  PetaboxLoader3.datanode: 93.069 (5)
-  load_resource: 205.792 (2)
-  PetaboxLoader3.resolve: 77.957 (2)
-*/
